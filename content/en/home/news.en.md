@@ -14,9 +14,11 @@ weight = 5
 
 +++
 ### Schedule
+- 2019.10.01-2020.4.30 Visiting [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)
+
+### 2020
 - 2020.02.10-2020.02.12 [EMBL-IBCL winter conference](https://events.ibecbarcelona.eu/embl-ibec-winter-conference/speakers/)
 - 2020.01.21-2020.01.23 [4th HBP Student Conference on Interdisciplinary Brain Research](https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/) 
-- 2019.10.01-2020.4.30 Visiting [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)
 
 ### 2019
 - 2019.12.11-2019.12.13 [Brainhack Vienna](https://brainhack-vienna.github.io/)  
