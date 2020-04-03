@@ -11,10 +11,10 @@
 [jp]
   languageCode = "jp"
   contentDir = "content/jp"
-  title = "Chinese website title..."
-  [zh.params]
-    description = "Site description in Chinese..."
-  [[zh.menu.main]]
-    name = "Wo"
-    url = "#about"
-    weight = 1
+#  title = "Chinese website title..."
+#  [zh.params]
+#    description = "Site description in Chinese..."
+#  [[zh.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1
