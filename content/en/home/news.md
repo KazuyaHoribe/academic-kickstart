@@ -50,7 +50,6 @@ weight = 5
  css_class = ""
 +++
 
-+++
 ### Schedule
 - 2019.10.01-2020.4.30 Visiting [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)
 
