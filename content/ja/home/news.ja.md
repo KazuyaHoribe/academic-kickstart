@@ -13,13 +13,13 @@ date = "2016-04-20T00:00:00"
 weight = 5
 
 +++
-### 予定  
-- 2020.02.10-2020.02.12 [EMBL-IBCL winter conference](https://events.ibecbarcelona.eu/embl-ibec-winter-conference/speakers/)
-- 2020.01.21-2020.01.23 [4th HBP Student Conference on Interdisciplinary Brain Research](https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/) 
+### 予定   
 - 2019.10.01-2020.4.30 [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)に訪問し共同研究を行います．
 
 
 ### 2019
+- 2020.02.10-2020.02.12 [EMBL-IBCL winter conference](https://events.ibecbarcelona.eu/embl-ibec-winter-conference/speakers/)
+- 2020.01.21-2020.01.23 [4th HBP Student Conference on Interdisciplinary Brain Research](https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/)
 - 2019.12.11-2019.12.13 [Brainhack Vienna](https://brainhack-vienna.github.io/)に参加しました。
 - 2019.11.13 [Niels Bohr Institute](https://www.nbi.ku.dk/english/) のBiocomplexity Seminarでセミナーを行いました．
 - 2019.09.17 [Chaos](https://aip.scitation.org/doi/10.1063/1.5108838?ai=1gvoi&mi=3ricys&af=R&feed=most-recent&)に論文が掲載されました．
