@@ -77,4 +77,5 @@ user_groups:
 - Visitors
 ---
 
-Kazuya Horibe is currently a Ph.D. student in [Theoretical Biology lab](http://www.bio.sci.osaka-u.ac.jp/~fujimoto/), Osaka University. He is studying computational biology, artificial life in the graduate school of Osaka University, after finished Bachelor’s degree in biological science in Osaka University and Master's degree in information science in Osaka University. His current research area is computational biology.
+堀部和也の個人ページです．  
+大阪大学　大学院理学研究科　生物科学専攻　[藤本仰一研究室](http://www.bio.sci.osaka-u.ac.jp/~fujimoto/)の博士2年です．
