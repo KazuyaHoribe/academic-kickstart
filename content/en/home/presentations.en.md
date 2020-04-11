@@ -13,11 +13,18 @@ date = "2016-04-20T00:00:00"
 weight = 20
 
 +++
+### Internatioal Conference (Oral)
+
+<ol reversed>
+  <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "The surface geometry of cerebral cortex induces topological changes of cortical traveling waves"，<br><a href="https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/">4th HBP Student Conference on Interdisciplinary Brain Research</a>, Pisa. Italy. Jan. 2020</li>
+</ol>
 
 ### Internatioal Conference (Poster)
 
 <ol reversed>
-  <li>Kazuya Horibe，Ken-ichi Hironaka，Katsuyoshi Matsushita，Koichi Fujimoto，  
+  <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "TA surface geometry of living things induces a topological change of a chemical traveling wave during morphogenesis"，<br><a href="https://events.ibecbarcelona.eu/embl-ibec-winter-conference/">EMBL-IBEC Winter Conference</a>, Barcelona. Spain. Feb. 2020</li>
+  <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "The surface geometry of cerebral cortex induces topological changes of cortical traveling waves"，<br><a href="https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/">4th HBP Student Conference on Interdisciplinary Brain Research</a>, Pisa. Italy. Jan. 2020</li>
+  <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto，  
    "Curvature-driven splitting of a planar travelling wave"，<br><a href="https://www.wpi-aimr.tohoku.ac.jp//mathematics_unit/english/Pattern_and_Waves_2016/home.htm">Patterns and Waves 2016</a>  
    ，P-28， Hokkaido. Japan. Aug. 2016</li>
 </ol>

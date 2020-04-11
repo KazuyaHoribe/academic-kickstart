@@ -13,6 +13,21 @@ date = "2016-04-20T00:00:00"
 weight = 20
 
 +++
+### Internatioal Conference (Oral)
+
+<ol reversed>
+  <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "The surface geometry of cerebral cortex induces topological changes of cortical traveling waves"，<br><a href="https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/">4th HBP Student Conference on Interdisciplinary Brain Research</a>, Pisa. Italy. Jan. 2020</li>
+</ol>
+
+### Internatioal Conference (Poster)
+
+<ol reversed>
+  <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "TA surface geometry of living things induces a topological change of a chemical traveling wave during morphogenesis"，<br><a href="https://events.ibecbarcelona.eu/embl-ibec-winter-conference/">EMBL-IBEC Winter Conference</a>, Barcelona. Spain. Feb. 2020</li>
+  <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "The surface geometry of cerebral cortex induces topological changes of cortical traveling waves"，<br><a href="https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/">4th HBP Student Conference on Interdisciplinary Brain Research</a>, Pisa. Italy. Jan. 2020</li>
+  <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto，  
+   "Curvature-driven splitting of a planar travelling wave"，<br><a href="https://www.wpi-aimr.tohoku.ac.jp//mathematics_unit/english/Pattern_and_Waves_2016/home.htm">Patterns and Waves 2016</a>  
+   ，P-28， Hokkaido. Japan. Aug. 2016</li>
+</ol>
 
 ### 国内会議　(招待講演)
 
@@ -37,14 +52,6 @@ weight = 20
   <li>堀部和也，北尾太嗣，古川正紘，安藤英由樹，前田太郎，  
    "身体所有感領域の内外における物体の運動イメージの変容の検証"，<br><a href="http://conference.vrsj.org/ac2016/">日本バーチャルリアリティ学会第21回大会</a>  
    ，13B-04，茨城，2016年9月</li>
-</ol>
-
-### Internatioal Conference (Poster)
-
-<ol reversed>
-  <li>Kazuya Horibe，Ken-ichi Hironaka，Katsuyoshi Matsushita，Koichi Fujimoto，  
-   "Curvature-driven splitting of a planar travelling wave"，<br><a href="https://www.wpi-aimr.tohoku.ac.jp//mathematics_unit/english/Pattern_and_Waves_2016/home.htm">Patterns and Waves 2016</a>  
-   ，P-28， Hokkaido. Japan. Aug. 2016</li>
 </ol>
 
 ### 国内会議　（ポスター）
