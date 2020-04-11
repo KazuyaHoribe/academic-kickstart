@@ -13,10 +13,4 @@ date = "2016-04-20T00:00:00"
 weight = 45
 
 +++
-{{<slideshare "yNUhuouWK0kQ43" "kazuyahoribe/160118journal-101340803" "160118journal" "Kazuya Horibe">}}
-
-{{<slideshare "yCbOCPobLLPNkP" "kazuyahoribe/casualtalk180627-180627122130" "180627casualtalk" "Kazuya Horibe">}}
-
-{{<slideshare "KI7NYpMdLuLkQw" "kazuyahoribe/190110jornal-190110121517" "190110journal" "Kazuya Horibe">}}
-
-{{<slideshare "DCzGmg1C5G2Z01" "kazuyahoribe/curved-surface-geometryinduced-topological-change-of-an-excitable-planar-wavefront-193192159" "191113NBI" "Kazuya Horibe">}}
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yNUhuouWK0kQ43" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kazuyahoribe/160118journal-101340803" title="Metabolic co-dependence gives rise to collective oscillations within biofilms." target="_blank">Metabolic co-dependence gives rise to collective oscillations within biofilms.</a> </strong> from <strong><a href="https://www.slideshare.net/kazuyahoribe" target="_blank">Kazuya Horibe</a></strong> </div>Horibe">}}
