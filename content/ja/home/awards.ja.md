@@ -39,6 +39,8 @@ weight = 40
 [クラウドファンディング](https://motion-gallery.net/projects/hokori_computing) 597,800JPY  
 ポーランドのメディアアートビエンナーレWROで初めての海外展示をしたい！
  -->
+- April, 2020
+[大阪大学未来基金グローバル化推進事業 研究留学助成金](https://miraikikin.uci-sys.jp/) 1,200,000JPY
 
 - March, 2019  
 [芸術スポーツ振興助成制度 現代芸術振興助成](https://istyle-found.org/art_support2019/)   500,000JPY  

@@ -41,6 +41,8 @@ Best performance in Honors Seminar for presentation of "Structure and function o
 [クラウドファンディング](https://motion-gallery.net/projects/hokori_computing) 597,800JPY  
 ポーランドのメディアアートビエンナーレWROで初めての海外展示をしたい！
  -->
+- April, 2020
+[The Osaka University Scholarship for Overseas Research Activities 2020](https://miraikikin.uci-sys.jp/en/) 1,200,000JPY
 
 - March, 2019  
 [Contemporary Art Promotion grant by istyle Art and Sports Foundation](https://istyle-found.org/art_support2019/)   500,000JPY  
