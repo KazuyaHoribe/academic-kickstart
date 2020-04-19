@@ -23,3 +23,6 @@ weight = 5
 - 2020.01.21 - 01.23 [4th HBP Student Conference on Interdisciplinary Brain Research](https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/) 
 
 ### [~2019]({{< ref "/news/past/index.md" >}})  
+
+
+<a class="twitter-timeline" data-height="300" data-theme="light" href="https://twitter.com/khoribe3?ref_src=twsrc%5Etfw">Tweets by khoribe3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
