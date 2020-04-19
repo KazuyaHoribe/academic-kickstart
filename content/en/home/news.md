@@ -61,4 +61,4 @@ weight = 5
 
 ### [~2019]({{< ref "/news/past/index.md" >}})  
 
- <a class="twitter-timeline" data-height="200" data-theme="light" href="https://twitter.com/khoribe3?ref_src=twsrc%5Etfw">Tweets by khoribe3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ <a class="twitter-timeline" data-height="300" data-theme="light" href="https://twitter.com/khoribe3?ref_src=twsrc%5Etfw">Tweets by khoribe3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
