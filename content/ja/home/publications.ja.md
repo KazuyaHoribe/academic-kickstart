@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-(see also [Google Citation](https://scholar.google.co.jp/citations?user=0G8tetsAAAAJ&hl=en) and [ResearcGate](https://www.researchgate.net/profile/Kazuya_Horibe))
+(see also [Google Citation](https://scholar.google.co.jp/citations?user=0G8tetsAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kazuya_Horibe))
 <ol reversed>
   <li>K. Horibe, K. Hironaka, K. Matsushita, and K. Fujimoto, "Curved surface geometry-induced topological change of an excitable planar wavefront", <br><a href="https://aip.scitation.org/doi/10.1063/1.5108838?ai=1gvoi&mi=3ricys&af=R&feed=most-recent">Chaos: An Interdisciplinary Journalof Nonlinear Science, vol. 29, no. 9, p. 093 120, 2019</a> (2019)</li>
 
