@@ -27,8 +27,7 @@ interests:
 - Evolution
 - Artificial life
 - Urban planning theory
-
-<a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/khoribe3?ref_src=twsrc%5Etfw">Tweets by khoribe3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- <a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/khoribe3?ref_src=twsrc%5Etfw">Tweets by khoribe3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 education:
@@ -48,7 +47,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use #"mailto:test@example.org".
