@@ -27,8 +27,6 @@ interests:
 - Evolution
 - Artificial life
 - Urban planning theory
-- <a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/khoribe3?ref_src=twsrc%5Etfw">Tweets by khoribe3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 education:
   courses:
@@ -62,6 +60,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/feed/
+  
+ <a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/khoribe3?ref_src=twsrc%5Etfw">Tweets by khoribe3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
