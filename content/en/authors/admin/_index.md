@@ -28,6 +28,9 @@ interests:
 - Artificial life
 - Urban planning theory
 
+- <a class="twitter-timeline" href="https://twitter.com/khoribe3?ref_src=twsrc%5Etfw">Tweets by khoribe3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 education:
   courses:
   - course: Complex Systems Summer School
@@ -79,4 +82,3 @@ user_groups:
 
 Kazuya Horibe is currently a Ph.D. student in [Theoretical Biology lab](http://www.bio.sci.osaka-u.ac.jp/~fujimoto/), Osaka University. He is studying computational biology, artificial life in the graduate school of Osaka University, after finished Bachelor’s degree in biological science in Osaka University and Master's degree in information science in Osaka University.
 
-<a class="twitter-timeline" href="https://twitter.com/khoribe3?ref_src=twsrc%5Etfw">Tweets by khoribe3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
