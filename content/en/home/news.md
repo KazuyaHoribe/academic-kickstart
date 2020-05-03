@@ -51,9 +51,9 @@ weight = 5
 +++
 
 ### Schedule
-- 2019.10.01-2020.4.30 Visiting [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)
 
 ### 2020
+- 2019.10.01-2020.4.30 Visiting [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)
 - 2020.04.08 - 04.10 [Brain Web](https://brain-web.github.io/)
 - 2020.04.07 Receive [The Osaka University Scholarship for Overseas Research Activities 2020](https://miraikikin.uci-sys.jp/en/)
 - 2020.02.10 - 02.12 [EMBL-IBCL winter conference](https://events.ibecbarcelona.eu/embl-ibec-winter-conference/speakers/)
