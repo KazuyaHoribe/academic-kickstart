@@ -33,14 +33,7 @@ Best performance in Honors Seminar for presentation of "Structure and function o
 
 
 ### Grant
-<!--- June, 2019  
-[クラウドファンディング](https://academist-cf.com/projects/119?lang=ja) 605,831JPY  
-脳のしわは神経活動の伝播に影響するか？ 非線形物理学で挑む
- 
-- May, 2019  
-[クラウドファンディング](https://motion-gallery.net/projects/hokori_computing) 597,800JPY  
-ポーランドのメディアアートビエンナーレWROで初めての海外展示をしたい！
- -->
+
 - April, 2020
 [The Osaka University Scholarship for Overseas Research Activities 2020](https://miraikikin.uci-sys.jp/en/) 1,200,000JPY
 
@@ -49,3 +42,13 @@ Best performance in Honors Seminar for presentation of "Structure and function o
 
 - February, 2019  
 [Tobitate! Young Ambassador Program](https://www.tobitate.mext.go.jp/univ/program/tech/index.html) 1,600,000JPY
+
+### Crowdfunding
+
+- June, 2019  
+[クラウドファンディング](https://academist-cf.com/projects/119?lang=en) 605,831JPY  
+How do brain wrinkles affect the transmission of nerve activity? A challenge using nonlinear physics
+ 
+- May, 2019  
+[クラウドファンディング](https://motion-gallery.net/projects/hokori_computing) 597,800JPY  
+ポーランドのメディアアートビエンナーレWROで初めての海外展示をしたい！

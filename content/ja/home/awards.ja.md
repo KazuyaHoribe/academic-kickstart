@@ -31,14 +31,7 @@ weight = 40
 
 
 ### Grant
-<!--- June, 2019  
-[クラウドファンディング](https://academist-cf.com/projects/119?lang=ja) 605,831JPY  
-脳のしわは神経活動の伝播に影響するか？ 非線形物理学で挑む
- 
-- May, 2019  
-[クラウドファンディング](https://motion-gallery.net/projects/hokori_computing) 597,800JPY  
-ポーランドのメディアアートビエンナーレWROで初めての海外展示をしたい！
- -->
+
 - April, 2020
 [大阪大学未来基金グローバル化推進事業 研究留学助成金](https://miraikikin.uci-sys.jp/) 1,200,000JPY
 
@@ -48,3 +41,13 @@ weight = 40
 
 - February, 2019  
 [トビタテ!留学JAPAN 日本代表プログラム未来テクノロジー人材枠](https://www.tobitate.mext.go.jp/univ/program/tech/index.html) 1,600,000JPY
+
+### Crowdfunding
+
+- June, 2019  
+[クラウドファンディング](https://academist-cf.com/projects/119?lang=ja) 605,831JPY  
+脳のしわは神経活動の伝播に影響するか？ 非線形物理学で挑む
+ 
+- May, 2019  
+[クラウドファンディング](https://motion-gallery.net/projects/hokori_computing) 597,800JPY  
+ポーランドのメディアアートビエンナーレWROで初めての海外展示をしたい！
