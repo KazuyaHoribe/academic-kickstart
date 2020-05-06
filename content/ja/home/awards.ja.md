@@ -45,9 +45,8 @@ weight = 40
 ### Crowdfunding
 
 - June, 2019  
-[クラウドファンディング](https://academist-cf.com/projects/119?lang=ja) 605,831JPY  
-脳のしわは神経活動の伝播に影響するか？ 非線形物理学で挑む
+[脳のしわは神経活動の伝播に影響するか？ 非線形物理学で挑む](https://academist-cf.com/projects/119?lang=ja) 605,831JPY  
  
 - May, 2019  
-[クラウドファンディング](https://motion-gallery.net/projects/hokori_computing) 597,800JPY  
-ポーランドのメディアアートビエンナーレWROで初めての海外展示をしたい！
+[ポーランドのメディアアートビエンナーレWROで初めての海外展示をしたい！](https://motion-gallery.net/projects/hokori_computing) 597,800JPY  
+

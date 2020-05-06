@@ -46,9 +46,7 @@ Best performance in Honors Seminar for presentation of "Structure and function o
 ### Crowdfunding
 
 - June, 2019  
-[クラウドファンディング](https://academist-cf.com/projects/119?lang=en) 605,831JPY  
-How do brain wrinkles affect the transmission of nerve activity? A challenge using nonlinear physics
+[How do brain wrinkles affect the transmission of nerve activity? A challenge using nonlinear physics](https://academist-cf.com/projects/119?lang=en) 605,831JPY  
  
 - May, 2019  
-[クラウドファンディング](https://motion-gallery.net/projects/hokori_computing) 597,800JPY  
-ポーランドのメディアアートビエンナーレWROで初めての海外展示をしたい！
+[ポーランドのメディアアートビエンナーレWROで初めての海外展示をしたい！](https://motion-gallery.net/projects/hokori_computing) 597,800JPY  
