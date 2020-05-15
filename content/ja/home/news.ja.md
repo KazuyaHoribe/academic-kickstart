@@ -16,7 +16,8 @@ weight = 5
 ### 予定   
 
 ### 2020
-- 2019.10.01-2020.4.30 [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)に訪問し共同研究を行います．
+- 2020.05.13 [CrossLabs](https://www.crosslabs.org/) でインターンを開始しました。
+- 2019.10.01-2020.4.30 [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)に訪問し共同研究を行いました。
 - 2020.04.08 - 04.10 [Brain Web](https://brain-web.github.io/)
 - 2020.04.07 [大阪大学未来基金グローバル化推進事業 研究留学助成金](https://miraikikin.uci-sys.jp/)に採択されました。
 - 2020.02.10 - 02.12 [EMBL-IBCL winter conference](https://events.ibecbarcelona.eu/embl-ibec-winter-conference/speakers/)

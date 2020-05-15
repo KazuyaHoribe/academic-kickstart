@@ -53,6 +53,7 @@ weight = 5
 ### Schedule
 
 ### 2020
+- 2020.05.13 Start a student intern in [CrossLabs](https://www.crosslabs.org/)
 - 2019.10.01-2020.4.30 Visiting [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)
 - 2020.04.08 - 04.10 [Brain Web](https://brain-web.github.io/)
 - 2020.04.07 Receive [The Osaka University Scholarship for Overseas Research Activities 2020](https://miraikikin.uci-sys.jp/en/)
