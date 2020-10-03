@@ -51,7 +51,7 @@ weight = 5
 +++
 
 ### Schedule
-
+- 2020.10.26-30 [neuromatch 3.0](https://neuromatch.io/)
 ### 2020
 - 2020.05.13 Start a student intern in [CrossLabs](https://www.crosslabs.org/)
 - 2019.10.01-2020.4.30 Visiting [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)

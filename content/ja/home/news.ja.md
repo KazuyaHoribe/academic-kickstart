@@ -14,7 +14,7 @@ weight = 5
 
 +++
 ### 予定   
-
+- 2020.10.26-30 [neuromatch 3.0](https://neuromatch.io/)
 ### 2020
 - 2020.05.13 [CrossLabs](https://www.crosslabs.org/) でインターンを開始しました。
 - 2019.10.01-2020.4.30 [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)に訪問し共同研究を行いました。
