@@ -78,4 +78,4 @@ user_groups:
 ---
 
 堀部和也の個人ページです．  
-大阪大学　大学院理学研究科　生物科学専攻　[藤本仰一研究室](http://www.bio.sci.osaka-u.ac.jp/~fujimoto/)の博士2年です．
+大阪大学　大学院理学研究科　生物科学専攻　[藤本仰一研究室](http://www.bio.sci.osaka-u.ac.jp/~fujimoto/)の博士3年です．
