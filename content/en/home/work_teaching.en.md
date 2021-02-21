@@ -15,11 +15,18 @@ weight = 30
 
 +++
 ### Work Experience 
+- June 1, 2020 - Decenver 31, 2020  
+[CrossLabs](https://www.crosslabs.org/about), Kyoto, Japan, Topic: Neural Centralization
+
+- Octorver 1, 2019 - April 30, 2020  
+[IT University of Copenhagen](https://en.itu.dk/), Copenhagen, Denmark, Topic: Regenerating soft robots
+
 - November 1, 2017 - March 10, 2018  
 [noizarchitects](http://noizarchitects.com/), Tokyo, Japan, Topic: Urban planning theory
 
 - March 15, 2017 - April 8, 2017  
 [noizarchitects](http://noizarchitects.com/), Tokyo, Japan, Topic: Automatic drawing, Computational design
+
 
 ### Teaching 
 - April 9, 2019 - Jun, 2019  
