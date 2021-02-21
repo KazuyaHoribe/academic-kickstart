@@ -15,10 +15,10 @@ weight = 30
 
 +++
 ### Work Experience 
-- June 1, 2020 - Decenver 31, 2020  
+- June 1, 2020 - December 31, 2020  
 [CrossLabs](https://www.crosslabs.org/about), Kyoto, Japan, Topic: Neural Centralization
 
-- Octorver 1, 2019 - April 30, 2020  
+- October 1, 2019 - April 30, 2020  
 [IT University of Copenhagen](https://en.itu.dk/), Copenhagen, Denmark, Topic: Regenerating soft robots
 
 - November 1, 2017 - March 10, 2018  
