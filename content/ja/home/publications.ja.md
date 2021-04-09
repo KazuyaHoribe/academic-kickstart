@@ -47,3 +47,10 @@ exclude_selected = false
   <li>Matsushita, K., Horibe, K., Kamamoto, N., & Fujimoto, K., “Cell migration driven byreceptor density polarity of cell-matrix adhesion”,  <br><a href="http://traffic.phys.cs.is.nagoya-u.ac.jp/~mstf/pdf/mstf2018-02.pdf">Proceedings of the Symposium on Simulation ofTraffic Flow, vol. 24, pp. 5–8</a> (2018)</li>
 </ol>
 
+### International Conferences (Refereed)
+<ol reversed>
+  <li>Horibe, K., Walker, K., & Risi, S. "Regenerating Soft Robots through Neural Cellular Automata", <br><a href="https://arxiv.org/abs/2102.02579">Genetic Programming: 24th European Conference, EuroGP 2021, Held as Part of EvoStar 2021, Virtual Event, April 7--9, 2021, Proceedings, p.36</a> (2021)
+  </li>
+
+</ol>
+
