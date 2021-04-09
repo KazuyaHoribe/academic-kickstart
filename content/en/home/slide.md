@@ -13,6 +13,8 @@ date = "2016-04-20T00:00:00"
 weight = 45
 
 +++
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2nERHMXJ4IAAqy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kazuyahoribe/210408eurogp" title="210408EuroGP" target="_blank">210408EuroGP</a> </strong> from <strong><a href="https://www.slideshare.net/kazuyahoribe" target="_blank">Kazuya Horibe</a></strong> </div>
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/vGBMR2irXvxMdT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kazuyahoribe/200303a-scalable-pipeline-for-designing-reconfigurable-organisms" title="200303_A scalable pipeline for designing reconfigurable organisms" target="_blank">200303_A scalable pipeline for designing reconfigurable organisms</a> </strong> from <strong><a href="https://www.slideshare.net/kazuyahoribe" target="_blank">Kazuya Horibe</a></strong> </div>  
 
 
