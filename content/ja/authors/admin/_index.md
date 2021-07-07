@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student
+role: Specially Appointed Assistant Professor
 
 # Organizations/Affiliations
 organizations:
 - name: 大阪大学
   url: ""
-
 # Short bio (displayed in user profile at end of posts)
+
 bio: 
 
 interests:
@@ -30,6 +30,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Scienece， Supervisor: Koichi Fujimoto
+    institution: Osaka University
+    year: 2021
   - course: Complex Systems Summer School
     institution: Santa Fe Institute
     year: 2019
@@ -78,4 +81,4 @@ user_groups:
 ---
 
 堀部和也の個人ページです．  
-大阪大学　大学院理学研究科　生物科学専攻　[藤本仰一研究室](http://www.bio.sci.osaka-u.ac.jp/~fujimoto/)の博士3年です．
+大阪大学　大学院基礎工学研究科　システム創生専攻　[石黒浩研究室](https://www.irl.sys.es.osaka-u.ac.jp/)の特任助教です．

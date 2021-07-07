@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student
+role: Specially Appointed Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -30,6 +30,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Scienece， Supervisor:Koichi Fujimoto
+    institution: Osaka University
+    year: 2021
   - course: Complex Systems Summer School
     institution: Santa Fe Institute
     year: 2019
@@ -78,5 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Kazuya Horibe is currently a Ph.D. student in [Theoretical Biology lab](http://www.bio.sci.osaka-u.ac.jp/~fujimoto/), Osaka University. He is studying computational biology, artificial life in the graduate school of Osaka University, after finished Bachelor’s degree in biological science in Osaka University and Master's degree in information science in Osaka University.
-
+Kazuya Horibe is currently a Specially Appointed Assistant Professor in [Intelligent Robotics Lab](https://eng.irl.sys.es.osaka-u.ac.jp/home), Osaka University. He is studying computational biology, artificial life in the graduate school of Osaka University, after finished Bachelor’s degree in biological science in Osaka University and Master's degree in information science in Osaka University. He is received Ph.D. from Osaka University.

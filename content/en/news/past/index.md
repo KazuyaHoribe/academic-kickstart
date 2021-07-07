@@ -1,3 +1,11 @@
+### 2020
+- 2020.10.26-30 [neuromatch 3.0](https://neuromatch.io/)
+- 2020.05.13 Start a student intern in [CrossLabs](https://www.crosslabs.org/)
+- 2019.10.01-2020.4.30 Visiting [IT University of Copenhagen](https://en.itu.dk/) [Robotics, Evolution and Art Lab](https://real.itu.dk/)
+- 2020.04.08 - 04.10 [Brain Web](https://brain-web.github.io/)
+- 2020.04.07 Receive [The Osaka University Scholarship for Overseas Research Activities 2020](https://miraikikin.uci-sys.jp/en/)
+- 2020.02.10 - 02.12 [EMBL-IBCL winter conference](https://events.ibecbarcelona.eu/embl-ibec-winter-conference/speakers/)
+- 2020.01.21 - 01.23 [4th HBP Student Conference on Interdisciplinary Brain Research](https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/) 
 
 ### 2019
 - 2019.12.11-2019.12.13 [Brainhack Vienna](https://brainhack-vienna.github.io/)  
