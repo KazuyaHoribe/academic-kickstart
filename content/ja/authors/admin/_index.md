@@ -29,7 +29,6 @@ interests:
 - Urban planning theory
 
 education:
-  courses:
   - course: Ph.D. in Scienece， Supervisor: Koichi Fujimoto
     institution: Osaka University
     year: 2021
