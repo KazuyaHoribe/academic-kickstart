@@ -29,19 +29,19 @@ interests:
 - Urban planning theory
 
 education:
-  - course: Ph.D. in Scienece， Supervisor: Koichi Fujimoto
+  - course: D.Sci. Biological Science, Supervisor:Koichi Fujimoto
     institution: Osaka University
     year: 2021
   - course: Complex Systems Summer School
     institution: Santa Fe Institute
     year: 2019
-  - course: MEng in Information Scienece and Technology，Supervisor:Taro Maeda
+  - course: M.Eng. Information Scienece and Technology，Supervisor:Taro Maeda
     institution: Osaka University
     year: 2018
-  - course: BSc in Biological Science，Supervisor:Koichi Fujimoto
+  - course: B.Sc. Biological Science，Supervisor:Koichi Fujimoto
     institution: Osaka University
     year: 2016
-
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
