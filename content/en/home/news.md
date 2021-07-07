@@ -53,7 +53,7 @@ weight = 5
 ### Schedule
 
 ### 2021
-- 2021.06.23 I receved Ph.D. from Osaka University. 
+- 2021.06.23 I was received Ph.D. from Osaka University. 
 - 2021.04.07-09 [EvoStar2021](http://www.evostar.org/2021/)
 - 2021.02.04 Upload a new paper on arXiv [Regenerating Soft Robots through Neural Cellular Automata](https://arxiv.org/abs/2102.02579)
 
