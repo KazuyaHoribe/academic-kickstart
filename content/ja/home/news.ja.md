@@ -20,8 +20,7 @@ weight = 5
 - 2021.04.07-09 [EvoStar2021](http://www.evostar.org/2021/)
 - 2021.02.04 Upload a new paper on arXiv [Regenerating Soft Robots through Neural Cellular Automata](https://arxiv.org/abs/2102.02579) 
 
-
-### [~2019]({{< ref "/news/past/index.md" >}})  
+### [~2020]({{< ref "/news/past/index.md" >}})  
 
 
 
