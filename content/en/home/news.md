@@ -51,6 +51,7 @@ weight = 5
 +++
 
 ### Schedule
+- 2021.09.11-10.11 [Nakanojo Biennale](https://nakanojo-biennale.com/)
 
 ### 2021
 - 2021.06.23 I was received Ph.D. from Osaka University. 
