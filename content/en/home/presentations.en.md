@@ -26,6 +26,7 @@ weight = 20
 ### Internatioal Conference (Poster)
 
 <ol reversed>
+  <li>K. Horibe，G. Taga，K. Fujimoto， "How are long-range association fibers developed?: Estimation of neural propagation by shortest paths on the cortical surface"，<br><a href="https://www.embl.org/about/info/course-and-conference-office/events/ees22-05/">EMBL Symposium: Mechanobiology in development and disease</a>, Heidelberg. Germany. June. 2022</li>
   <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "The surface geometry of living things induces a topological change of a chemical traveling wave during morphogenesis"，<br><a href="https://events.ibecbarcelona.eu/embl-ibec-winter-conference/">EMBL-IBEC Winter Conference</a>, Barcelona. Spain. Feb. 2020</li>
   <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "The surface geometry of cerebral cortex induces topological changes of cortical traveling waves"，<br><a href="https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/">4th HBP Student Conference on Interdisciplinary Brain Research</a>, Pisa. Italy. Jan. 2020</li>
   <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto，  
@@ -36,6 +37,7 @@ weight = 20
 ### Seminar
 
 <ol reversed>
+  <li>"Long association fibers emerge from minimizing connectivity on the geometry of the human fetal brain" <br><a href="https://www.neuroconnlab.org/"> Congnitive Neuroanatomy Lab</a>, Labseiminar, Online，14th Jun. 2022</li>
   <li>"Surface geometry-induced splitting of traveling wave" 数理科学セミナー， Hokkaido Uni.，21th Nov. 2018</li>
   <li>"How surface geometry controls neuronal signal propagation on cerebral cortex"<br><a href="https://groups.oist.jp/cnru"> Tani Lab</a>. Seminar，OIST，15th Dec. 2018</li>
 </ol>

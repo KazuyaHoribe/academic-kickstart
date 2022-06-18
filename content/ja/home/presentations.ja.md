@@ -25,6 +25,7 @@ weight = 20
 ### Internatioal Conference (Poster)
 
 <ol reversed>
+  <li>K. Horibe，G. Taga，K. Fujimoto， "How are long-range association fibers developed?: Estimation of neural propagation by shortest paths on the cortical surface"，<br><a href="https://www.embl.org/about/info/course-and-conference-office/events/ees22-05/">EMBL Symposium: Mechanobiology in development and disease</a>, Heidelberg. Germany. June. 2022</li>
   <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "The surface geometry of living things induces a topological change of a chemical traveling wave during morphogenesis"，<br><a href="https://events.ibecbarcelona.eu/embl-ibec-winter-conference/">EMBL-IBEC Winter Conference</a>, Barcelona. Spain. Feb. 2020</li>
   <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "The surface geometry of cerebral cortex induces topological changes of cortical traveling waves"，<br><a href="https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/">4th HBP Student Conference on Interdisciplinary Brain Research</a>, Pisa. Italy. Jan. 2020</li>
   <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto，  
@@ -60,6 +61,9 @@ weight = 20
 ### 国内会議　（ポスター）
 
 <ol reversed>
+　<li>堀部和也，伴碧, 高橋英之, 石黒浩  
+  "ストレンジアトラクタの時空間構造は観察者にナラティブを想像させるか？：エージェントの動きに対する印象評価による探索"，<br><a href="https://alife-japan.org/archives/214">第2回人工生命研究会</a>  
+  ，A4，オンライン，2021年12月</li> 
 　<li>堀部和也，  
   "グラフオートマトン再考〜生物発生・生物進化，人工生命のモデルへ向けて〜"，<br><a href="https://q-bio.jp/wiki/%E7%AC%AC%E4%B9%9D%E5%9B%9E%E5%B9%B4%E4%BC%9A">定量生物学の会第９回年会</a>  
   ，P94，京都，2018年12月</li> 
@@ -92,6 +96,7 @@ weight = 20
 ### 公開セミナー
 
 <ol reversed>
+  <li>"Long association fibers emerge from minimizing connectivity on the geometry of the human fetal brain" <br><a href="https://www.neuroconnlab.org/"> Congnitive Neuroanatomy Lab</a>, Labseiminar, Online，14th Jun. 2022</li>
   <li>"Surface geometry-induced splitting of traveling wave" 数理科学セミナー，北海道大学，2018年11月21日</li>
   <li>"How surface geometry controls neuronal signal propagation on cerebral cortex"<br><a href="https://groups.oist.jp/cnru"> Tani Lab</a>. セミナー，OIST，2018年10月15日</li>
   <li>"チューリングの夢：生物の形づくりの数理"<br><a href="https://www.kokuchpro.com/event/6a3a52de2279c7d0f1dbcec791a4faeb/">学生力学系の会</a>，京都大学，2018年10月13日</li>
