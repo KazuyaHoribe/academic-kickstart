@@ -51,13 +51,13 @@ weight = 5
 +++
 
 ### Schedule
-- 2022.09.15-17 [The Botanical Society of Japan (Poster)](http://bsj.or.jp/bsj86/index.html)
+- 2022.09.15-17 [The Botanical Society of Japan (Poster)](http://bsj.or.jp/bsj86/index.html)  
 - 2022.08.23-25 [Network Science Seminar](https://www.network-science-seminar.com/activities/2022)
 ### 2022
 
 - 2022.06.14 I gave talk in [Congnitive Neuroanatomy Lab](https://www.neuroconnlab.org/) about [Long association fibers emerge from minimizing connectivity on the geometry of the human fetal brain](https://www.slideshare.net/kazuyahoribe/220614margulieslabpdf)
 - 2022.06.12 Published our new paper [Severe damage recovery in evolving soft robots through differentiable programming](https://rdcu.be/cPvCp) in Genetic Programming and Evolvable Machines
-- 2022.06.07 I gave talk in [Abe Lab](https://masatoabe.com/) about Spatial localization of traveling neural activities induced by curved cortical surface geometry : A pre-pattern theory for brain wiring and folding
+- 2022.06.07 I gave talk in [Abe Lab](https://masatoabe.com/) about Spatial localization of traveling neural activities induced by curved cortical surface geometry : A pre-pattern theory for brain wiring and folding  
 - 2022.05.15-18 [EMBL Symposium: Mechanobiology in development and disease](https://www.embl.org/about/info/course-and-conference-office/events/ees22-05/)
 - 2022.01.25 Upload a new paper on arXiv [Investigating the impact of free energy based behavior on human in human-agent interaction](https://arxiv.org/abs/2201.10164)
 - 2022.01.25-27 [AROB-ISBC-SWARM 2022](https://isarob.org/symposium/)
