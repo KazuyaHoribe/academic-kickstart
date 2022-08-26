@@ -39,6 +39,9 @@ exclude_selected = false
 (see also [Google Citation](https://scholar.google.co.jp/citations?user=0G8tetsAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kazuya_Horibe))
 ### Journal papers (Refereed)
 <ol reversed>
+  <li>Horibe, K., Walker, K., Palm, RB., Sudhakaran, S., and Risi, S. "Severe damage recovery in evolving soft robots through differentiable programming", <br><a href="https://journals.jps.jp/doi/abs/10.7566/JPSJ.88.103801"> Genetic Programming and Evolvable Machines, 1-22.</a> (2022)
+  </li>
+  
   <li>Matsushita, K., Horibe, K., Kamamoto, N., & Fujimoto, K. "Cell Motion Alignment as a Polarity Memory Effect", <br><a href="https://journals.jps.jp/doi/abs/10.7566/JPSJ.88.103801">Journal of the Physical Society of Japan, 88(10), 103801.</a> (2019)
   </li>
 
