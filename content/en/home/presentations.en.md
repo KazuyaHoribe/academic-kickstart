@@ -37,7 +37,7 @@ weight = 20
 ### Seminar
 
 <ol reversed>
-  <li>"Long association fibers emerge from minimizing connectivity on the geometry of the human fetal brain" <br><a href="https://www.neuroconnlab.org/"> Congnitive Neuroanatomy Lab</a>, Labseiminar, Online，14th Jun. 2022</li>
+  <li>"Long association fibers emerge from minimizing connectivity on the geometry of the human fetal brain" <br><a href="https://www.neuroconnlab.org/"> Cognitive Neuroanatomy Lab</a>, Labseiminar, Online，14th Jun. 2022</li>
   <li>"Surface geometry-induced splitting of traveling wave" 数理科学セミナー， Hokkaido Uni.，21th Nov. 2018</li>
   <li>"How surface geometry controls neuronal signal propagation on cerebral cortex"<br><a href="https://groups.oist.jp/cnru"> Tani Lab</a>. Seminar，OIST，15th Dec. 2018</li>
 </ol>

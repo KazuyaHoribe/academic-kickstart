@@ -39,7 +39,7 @@ exclude_selected = false
 (see also [Google Citation](https://scholar.google.co.jp/citations?user=0G8tetsAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kazuya_Horibe))
 ### Journal papers (Refereed)
 <ol reversed>
-  <li>Horibe, K., Walker, K., Palm, RB., Sudhakaran, S., and Risi, S. "Severe damage recovery in evolving soft robots through differentiable programming", <br><a href="https://journals.jps.jp/doi/abs/10.7566/JPSJ.88.103801"> Genetic Programming and Evolvable Machines, 1-22.</a> (2022)
+  <li>Horibe, K., Walker, K., Palm, RB., Sudhakaran, S., and Risi, S. "Severe damage recovery in evolving soft robots through differentiable programming", <br><a href="https://link.springer.com/article/10.1007/s10710-022-09433-z"> Genetic Programming and Evolvable Machines, 1-22.</a> (2022)
   </li>
   
   <li>Matsushita, K., Horibe, K., Kamamoto, N., & Fujimoto, K. "Cell Motion Alignment as a Polarity Memory Effect", <br><a href="https://journals.jps.jp/doi/abs/10.7566/JPSJ.88.103801">Journal of the Physical Society of Japan, 88(10), 103801.</a> (2019)
@@ -47,13 +47,14 @@ exclude_selected = false
 
   <li>Horibe, K., Hironaka, K., Matsushita, K., and Fujimoto, K., "Curved surface geometry-induced topological change of an excitable planar wavefront", <br><a href="https://aip.scitation.org/doi/10.1063/1.5108838?ai=1gvoi&mi=3ricys&af=R&feed=most-recent">Chaos: An Interdisciplinary Journalof Nonlinear Science, vol. 29, no. 9, p. 093 120, 2019</a> (2019)</li>
 
-  <li>Matsushita, K., Horibe, K., Kamamoto, N., & Fujimoto, K., “Cell migration driven byreceptor density polarity of cell-matrix adhesion”,  <br><a href="http://traffic.phys.cs.is.nagoya-u.ac.jp/~mstf/pdf/mstf2018-02.pdf">Proceedings of the Symposium on Simulation ofTraffic Flow, vol. 24, pp. 5–8</a> (2018)</li>
 </ol>
 
 ### International Conferences (Refereed)
 <ol reversed>
   <li>Horibe, K., Walker, K., & Risi, S. "Regenerating Soft Robots through Neural Cellular Automata", <br><a href="https://arxiv.org/abs/2102.02579">Genetic Programming: 24th European Conference, EuroGP 2021, Held as Part of EvoStar 2021, Virtual Event, April 7--9, 2021, Proceedings, p.36</a> (2021)
   </li>
+
+  <li>Matsushita, K., Horibe, K., Kamamoto, N., & Fujimoto, K., “Cell migration driven byreceptor density polarity of cell-matrix adhesion”,  <br><a href="http://traffic.phys.cs.is.nagoya-u.ac.jp/~mstf/pdf/mstf2018-02.pdf">Proceedings of the Symposium on Simulation ofTraffic Flow, vol. 24, pp. 5–8</a> (2018)</li>
 
 </ol>
 

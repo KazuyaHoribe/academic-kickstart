@@ -61,6 +61,9 @@ weight = 20
 ### 国内会議　（ポスター）
 
 <ol reversed>
+　<li>堀部和也，阿部真人
+  "生態系動態を記述する大自由度力学系の疑似アトラクタ構造に基づいた分類に向けて"，<br><a href="https://www.network-science-seminar.com/activities/2022">ネットワーク科学研究会2022</a>  
+  ， 講演番号8，，2022年8月</li> 
 　<li>堀部和也，伴碧, 高橋英之, 石黒浩  
   "ストレンジアトラクタの時空間構造は観察者にナラティブを想像させるか？：エージェントの動きに対する印象評価による探索"，<br><a href="https://alife-japan.org/archives/214">第2回人工生命研究会</a>  
   ，A4，オンライン，2021年12月</li> 
@@ -96,7 +99,7 @@ weight = 20
 ### 公開セミナー
 
 <ol reversed>
-  <li>"Long association fibers emerge from minimizing connectivity on the geometry of the human fetal brain" <br><a href="https://www.neuroconnlab.org/"> Congnitive Neuroanatomy Lab</a>, Labseiminar, Online，14th Jun. 2022</li>
+  <li>"Long association fibers emerge from minimizing connectivity on the geometry of the human fetal brain" <br><a href="https://www.neuroconnlab.org/"> Cognitive Neuroanatomy Lab</a>, Labseiminar, Online，14th Jun. 2022</li>
   <li>"Surface geometry-induced splitting of traveling wave" 数理科学セミナー，北海道大学，2018年11月21日</li>
   <li>"How surface geometry controls neuronal signal propagation on cerebral cortex"<br><a href="https://groups.oist.jp/cnru"> Tani Lab</a>. セミナー，OIST，2018年10月15日</li>
   <li>"チューリングの夢：生物の形づくりの数理"<br><a href="https://www.kokuchpro.com/event/6a3a52de2279c7d0f1dbcec791a4faeb/">学生力学系の会</a>，京都大学，2018年10月13日</li>
