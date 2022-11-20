@@ -1,3 +1,10 @@
+### 2021
+- 2021.12.06 [第2回人工生命研究会](https://alife-japan.org/archives/event/workshop002)
+- 2021.09.11-10.11 [中之条ビエンナーレ](https://nakanojo-biennale.com/)でホコリ・コンピューティングが展示を行いました。
+- 2021.06.23 大阪大学から博士（理学）を授与されました。 
+- 2021.04.07-09 [EvoStar2021](http://www.evostar.org/2021/)
+- 2021.02.04 Upload a new paper on arXiv [Regenerating Soft Robots through Neural Cellular Automata](https://arxiv.org/abs/2102.02579) 
+
 ### 2020
 - 2020.10.26-30 [neuromatch 3.0](https://neuromatch.io/)
 - 2020.05.13 [CrossLabs](https://www.crosslabs.org/) でインターンを開始しました。
@@ -6,6 +13,7 @@
 - 2020.04.07 [大阪大学未来基金グローバル化推進事業 研究留学助成金](https://miraikikin.uci-sys.jp/)に採択されました。
 - 2020.02.10 - 02.12 [EMBL-IBCL winter conference](https://events.ibecbarcelona.eu/embl-ibec-winter-conference/speakers/)
 - 2020.01.21 - 01.23 [4th HBP Student Conference on Interdisciplinary Brain Research](https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/) 
+
 ### 2019
 - 2019.12.11-2019.12.13 [Brainhack Vienna](https://brainhack-vienna.github.io/)に参加しました。
 - 2019.11.13 [Niels Bohr Institute](https://www.nbi.ku.dk/english/) のBiocomplexity Seminarでセミナーを行いました．

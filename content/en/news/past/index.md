@@ -1,3 +1,12 @@
+
+
+### 2021
+- 2021.12.06 [2nd Japanese Artificial Life Conference](https://alife-japan.org/archives/event/workshop002)
+- 2021.09.11-10.11 [Nakanojo Biennale](https://nakanojo-biennale.com/)
+- 2021.06.23 I was received Ph.D. from Osaka University. 
+- 2021.04.07-09 [EvoStar2021](http://www.evostar.org/2021/)
+- 2021.02.04 Upload a new paper on arXiv [Regenerating Soft Robots through Neural Cellular Automata](https://arxiv.org/abs/2102.02579)
+
 ### 2020
 - 2020.10.26-30 [neuromatch 3.0](https://neuromatch.io/)
 - 2020.05.13 Start a student intern in [CrossLabs](https://www.crosslabs.org/)
