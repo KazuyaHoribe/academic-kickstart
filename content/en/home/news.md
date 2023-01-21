@@ -58,7 +58,6 @@ weight = 5
 
 ### 2023
 - 2023.01.05-07 [Mechanism of Brain and Mind Winter Workshop 2023](https://brainmind.jnns.org/index.php/en/)  
-s
 ### 2022
 - 2022.12.15-16 [Qbio 10th](https://q-bio.jp/index.php?title=Qbio10th_2022)  
 - 2022.09.15-17 [The Botanical Society of Japan (Poster)](http://bsj.or.jp/bsj86/index.html)  
