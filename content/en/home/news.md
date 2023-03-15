@@ -54,9 +54,9 @@ weight = 5
 - 2023.06.06-06.09 [JSAI 2023](https://www.ai-gakkai.or.jp/jsai2023/)  
 - 2023.03.20-03.22 [Annual meeting for Japanese Society of Phycology 2023](http://sourui.org/annual_meeting/JSP_47th/index.html)  
 - 2023.03.18 [Muroto UNESCO Global Geopark](https://www.muroto-geo.jp/) Science Cafe as finial presentation    
-- 2023.01.30-02.03 [Winter Workshop on Complex Systems 2023](https://wwcs2023.github.io/)  
-
+- 2023.03.17 [Annual meeting for Japanese Society of Plant Physiology ](https://jspp.org/en/)  
 ### 2023
+- 2023.01.30-02.03 [Winter Workshop on Complex Systems 2023](https://wwcs2023.github.io/)  
 - 2023.01.05-07 [Mechanism of Brain and Mind Winter Workshop 2023](https://brainmind.jnns.org/index.php/en/)  
 ### 2022
 - 2022.12.15-16 [Qbio 10th](https://q-bio.jp/index.php?title=Qbio10th_2022)  
