@@ -15,11 +15,11 @@ weight = 5
 +++
 ### Schedule
 - 2023.06.06-06.09 [人工知能学会2023](https://www.ai-gakkai.or.jp/jsai2023/)  
+
+### 2023
 - 2023.03.20-03.22 [日本藻類学会2023](http://sourui.org/annual_meeting/JSP_47th/index.html)  
 - 2023.03.18 [室戸ジオパーク学術研究助成](https://www.muroto-geo.jp/)の最終報告サイエンスカフェをおこないます。 
 - 2023.03.17 [日本植物生理学会2023](https://jspp.org/)  
-
-### 2023
 - 2023.01.30-02.03 [Winter Workshop on Complex Systems 2023](https://wwcs2023.github.io/)  
 - 2023.01.05-07 [脳と心のメカニズム Winter Workshop 2023](https://brainmind.jnns.org/index.php/en/)  
 
