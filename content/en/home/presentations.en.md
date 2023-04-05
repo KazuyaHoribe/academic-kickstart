@@ -13,7 +13,7 @@ date = "2016-04-20T00:00:00"
 weight = 20
 
 +++
-### Internatioal Conference (Oral)
+### International Conference (Oral)
 
 <ol reversed>
 
@@ -23,7 +23,7 @@ weight = 20
   <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "The surface geometry of cerebral cortex induces topological changes of cortical traveling waves"，<br><a href="https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/">4th HBP Student Conference on Interdisciplinary Brain Research</a>, Pisa. Italy. Jan. 2020</li>
 </ol>
 
-### Internatioal Conference (Poster)
+### International Conference (Poster)
 
 <ol reversed>
   <li>K. Horibe，G. Taga，K. Fujimoto， "How are long-range association fibers developed?: Estimation of neural propagation by shortest paths on the cortical surface"，<br><a href="https://www.embl.org/about/info/course-and-conference-office/events/ees22-05/">EMBL Symposium: Mechanobiology in development and disease</a>, Heidelberg. Germany. June. 2022</li>

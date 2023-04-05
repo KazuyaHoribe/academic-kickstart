@@ -13,7 +13,7 @@ date = "2016-04-20T00:00:00"
 weight = 20
 
 +++
-### Internatioal Conference (Oral)
+### International Conference (Oral)
 
 <ol reversed>
   <li>Horibe, K., Walker, K., & Risi, S. "Regenerating Soft Robots through Neural Cellular Automata", <br><a href="https://arxiv.org/abs/2102.02579">Genetic Programming: 24th European Conference, EuroGP 2021, Held as Part of EvoStar 2021, Virtual Event, April 7--9, 2021, Proceedings, p.36</a> (2021)
@@ -22,7 +22,7 @@ weight = 20
   <li>K. Horibe，K. Hironaka，K. Matsushita，K. Fujimoto， "The surface geometry of cerebral cortex induces topological changes of cortical traveling waves"，<br><a href="https://www.humanbrainproject.eu/en/education/participatecollaborate/student-conference/4th-student-conference/">4th HBP Student Conference on Interdisciplinary Brain Research</a>, Pisa. Italy. Jan. 2020</li>
 </ol>
 
-### Internatioal Conference (Poster)
+### International Conference (Poster)
 
 <ol reversed>
   <li>K. Horibe，G. Taga，K. Fujimoto， "How are long-range association fibers developed?: Estimation of neural propagation by shortest paths on the cortical surface"，<br><a href="https://www.embl.org/about/info/course-and-conference-office/events/ees22-05/">EMBL Symposium: Mechanobiology in development and disease</a>, Heidelberg. Germany. June. 2022</li>
