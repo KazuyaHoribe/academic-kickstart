@@ -50,10 +50,11 @@ weight = 5
  css_class = ""
 +++
 
-### Schedule
-- 2023.06.06-06.09 [JSAI 2023](https://www.ai-gakkai.or.jp/jsai2023/)  
+### Schedule 
+- 2023.07.24-07.28 [ALIFE 2023](https://2023.alife.org/)   
 
 ### 2023
+- 2023.06.06-06.09 [JSAI 2023](https://www.ai-gakkai.or.jp/jsai2023/) 
 - 2023.03.20-03.22 [Annual meeting for Japanese Society of Phycology 2023](http://sourui.org/annual_meeting/JSP_47th/index.html)  
 - 2023.03.18 [Muroto UNESCO Global Geopark](https://www.muroto-geo.jp/) Science Cafe as finial presentation    
 - 2023.03.17 [Annual meeting for Japanese Society of Plant Physiology ](https://jspp.org/en/)  
