@@ -51,9 +51,12 @@ weight = 5
 +++
 
 ### Schedule 
-- 2023.07.24-07.28 [ALIFE 2023](https://2023.alife.org/)   
+- 2024.07.02-07.05 [ASSC 2024](https://assc27.net/)  
+- 2024.05.28-05.31 [JSAI2024](https://www.ai-gakkai.or.jp/jsai2024/) 
 
 ### 2023
+- 2023.10.05-10.06 [Shosa: Future Dialogue](http://www.geminoid.jp/projects/shosa/)
+- 2023.07.24-07.28 [ALIFE 2023](https://2023.alife.org/)   
 - 2023.06.06-06.09 [JSAI 2023](https://www.ai-gakkai.or.jp/jsai2023/) 
 - 2023.03.20-03.22 [Annual meeting for Japanese Society of Phycology 2023](http://sourui.org/annual_meeting/JSP_47th/index.html)  
 - 2023.03.18 [Muroto UNESCO Global Geopark](https://www.muroto-geo.jp/) Science Cafe as finial presentation    
