@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Specially Appointed Assistant Professor
+role: Special Postdoctoral Researchers
 
 # Organizations/Affiliations
 organizations:
-- name: Osaka University
+- name: RIKEN CBS
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -81,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Kazuya Horibe is currently a Specially Appointed Assistant Professor in [Intelligent Robotics Lab](https://eng.irl.sys.es.osaka-u.ac.jp/home), Osaka University. He is studying computational biology, artificial life in the graduate school of Osaka University, after finished Bachelor’s degree in biological science in Osaka University and Master's degree in information science in Osaka University. He is received Ph.D. from Osaka University.
+Kazuya Horibe is currently a Special Postdoctoral Researchers in [RIKEN CBS](https://cbs.riken.jp/en/). He is studying computational biology, artificial life in the graduate school of Osaka University, after finished Bachelor’s degree in biological science in Osaka University and Master's degree in information science in Osaka University. He is received Ph.D. from Osaka University.

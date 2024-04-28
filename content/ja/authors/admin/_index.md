@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Specially Appointed Assistant Professor
+role: Special Postdoctoral Researchers
 
 # Organizations/Affiliations
-organizations:
-- name: 大阪大学
+organizations:理化学研究所　脳神経科学研究センター
+- name: 
   url: ""
 # Short bio (displayed in user profile at end of posts)
 
@@ -81,4 +81,4 @@ user_groups:
 ---
 
 堀部和也の個人ページです．  
-大阪大学　大学院基礎工学研究科　システム創生専攻　[石黒浩研究室](https://www.irl.sys.es.osaka-u.ac.jp/)の特任助教です．
+理化学研究所　脳神経科学研究センター　理研CBSートヨタ連携センター　[計算論的集団力学連携ユニット](https://btcc.riken.jp/research/computational-group-dynamics-unit/)の基礎科学特別研究員です．
