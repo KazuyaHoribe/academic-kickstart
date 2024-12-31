@@ -13,8 +13,8 @@ superuser: true
 role: Special Postdoctoral Researchers
 
 # Organizations/Affiliations
-organizations:理化学研究所　脳神経科学研究センター
-- name: 
+organizations:
+- name: 理化学研究所　脳神経科学研究センター
   url: ""
 # Short bio (displayed in user profile at end of posts)
 
