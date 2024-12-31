@@ -51,7 +51,7 @@ weight = 5
 +++
 
 ### Schedule 
-
+- 2025.05.27-05.30 [JSAI 2025](https://www.ai-gakkai.or.jp/jsai2025/)   
 
 ### 2024 
 - 2024.12.14-12.15 [Intrinsically Motivated Open-ended Learning NeurIPS 2024 in-person Workshop](https://imol-workshop.github.io/)  
