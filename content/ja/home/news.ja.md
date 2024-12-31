@@ -14,9 +14,12 @@ weight = 5
 
 +++
 ### Schedule
+
+### 2024
 - 2024.07.22-07.25 [ALIFE 2024](https://2024.alife.org/)  
 - 2024.07.02-07.05 [ASSC 2024](https://assc27.net/)  
 - 2024.05.28-05.31 [人工知能学会2024](https://www.ai-gakkai.or.jp/jsai2024/) でOS「大規模・高品質な生成AI時代における人工生命と人工意識」を主催します  
+
 
 ### 2023
 - 2023.10.05-10.06 [Shosa: Future Dialogue](http://www.geminoid.jp/projects/shosa/)を公開しました
