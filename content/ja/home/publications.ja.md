@@ -39,7 +39,7 @@ exclude_selected = false
 (see also [Google Citation](https://scholar.google.co.jp/citations?user=0G8tetsAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kazuya_Horibe))
 ### Journal papers (Refereed)
 <ol reversed>
-  <li>Nakata, Y., Ban, M., Yamaki, R., Horibe, K., Takahashi, H., & Ishiguro, H., "GExploring the eating experience of a pneumatically-driven edible robot: Perception, taste, and texture. ", <br><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296697"> Plos one, 19(2), e0296697.</a> (2024)
+  <li>Nakata, Y., Ban, M., Yamaki, R., Horibe, K., Takahashi, H., & Ishiguro, H., "Exploring the eating experience of a pneumatically-driven edible robot: Perception, taste, and texture. ", <br><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296697"> Plos one, 19(2), e0296697.</a> (2024)
   </li>
 
   <li>Horibe, K., Taga, G., & Fujimoto, K., "Geodesic theory of long association fibers arrangement in the human fetal cortex", <br><a href="https://academic.oup.com/cercor/article/33/17/9778/7229686?login=false"> Cerebral Cortex, 33(17), 9778-9786.</a> (2023)
@@ -60,6 +60,12 @@ exclude_selected = false
 
 ### International Conferences (Refereed)
 <ol reversed>
+  <li> Horibe, K. and Yoshida, N., “Emergence of Implicit World Models from Mortal Agents””，<br><a href="https://arxiv.org/abs/2411.12304">The Intrinsically Motivated Open-ended Learning workshop at NeurIPS 2024</a> (2024)
+  </li>
+
+  <li>Sato, M., Minato, T., Funayama, T., Sumioka, H., Sakai, K., Mikata, R., Ishiguro, H., Horibe, K., Kikuchi, A., & Sakuma, K.,"EAnalysis of heart-to-heart communication with robot using transfer entropy. ", <br><a href="https://ieeexplore.ieee.org/abstract/document/10731462">In In 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN) (pp. 75-82). IEEE.</a> (2024)
+  </li>
+
   <li>Horibe, K., Walker, K., & Risi, S. "Regenerating Soft Robots through Neural Cellular Automata", <br><a href="https://arxiv.org/abs/2102.02579">Genetic Programming: 24th European Conference, EuroGP 2021, Held as Part of EvoStar 2021, Virtual Event, April 7--9, 2021, Proceedings, p.36</a> (2021)
   </li>
 
