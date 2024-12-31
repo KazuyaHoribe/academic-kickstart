@@ -33,6 +33,11 @@ Best performance in Honors Seminar for presentation of "Structure and function o
 
 
 ### Grant
+- April, 2024
+[Grant-in-Aid for Transformative Research Areas (B):Quantitative analysis and theory development of morphological plasticity of multicellular algae in the field environment](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PLANNED-24H00858/) 39,130,000JPY
+
+- April, 2024
+[Grant-in-Aid for Early-Career Scientists:Establishing Metrics for Self-Producing Artificial Agency and Communication Emergence](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K20859/) 4,550,000JPY
 
 - April, 2020
 [The Osaka University Scholarship for Overseas Research Activities 2020](https://miraikikin.uci-sys.jp/en/) 1,200,000JPY

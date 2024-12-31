@@ -54,7 +54,15 @@ weight = 5
 
 
 ### 2024 
+- 2024.12.14-12.15 [Intrinsically Motivated Open-ended Learning NeurIPS 2024 in-person Workshop](https://imol-workshop.github.io/)  
+- 2024.11.28-11.29 [RIKEN CBS RETREAT 2024](https://cbs.riken.jp/en/lifeatcbs/retreat.html)  
+- 2024.11.20 [BTCC RETREAT 2024](https://btcc.riken.jp/)  
+- 2024.10.31-11.04 [Qualia Structure Grant Meeting](https://qualia-structure.labby.jp/)  
+- 2024.10.15-10.18 [Bilbao workshop on Goal-Directed Behavior](https://www.bcamath.org/en/news-events/news/bcam-hosted-workshop-theoretical-and-experimental-approaches-goal-directed)  
+- 2024.09.24-09.25 [esse-sense forum 2024 ](https://esse-sense.com/forum2024)  
+- 2024.07.31-08.03 [Meditation Retreat](https://www.facebook.com/photo?fbid=7470607983056563&set=gm.445845188034733&idorvanity=321885527097367)  
 - 2024.07.22-07.25 [ALIFE 2024](https://2024.alife.org/)  
+- 2024.07.08-07.11 [Aware and Alive: ASSC27 Satellite Symposium on Embodied and Phenomenological Perspectives on Consciousness ](https://sites.google.com/view/awareandalive)  
 - 2024.07.02-07.05 [ASSC 2024](https://assc27.net/)  
 - 2024.05.28-05.31 [JSAI2024](https://www.ai-gakkai.or.jp/jsai2024/)   
 
@@ -67,16 +75,6 @@ weight = 5
 - 2023.03.17 [Annual meeting for Japanese Society of Plant Physiology ](https://jspp.org/en/)  
 - 2023.01.30-02.03 [Winter Workshop on Complex Systems 2023](https://wwcs2023.github.io/)  
 - 2023.01.05-07 [Mechanism of Brain and Mind Winter Workshop 2023](https://brainmind.jnns.org/index.php/en/)  
-### 2022
-- 2022.12.15-16 [Qbio 10th](https://q-bio.jp/index.php?title=Qbio10th_2022)  
-- 2022.09.15-17 [The Botanical Society of Japan (Poster)](http://bsj.or.jp/bsj86/index.html)  
-- 2022.08.23-25 [Network Science Seminar](https://www.network-science-seminar.com/activities/2022)  
-- 2022.06.14 I gave talk in [Congnitive Neuroanatomy Lab](https://www.neuroconnlab.org/) about [Long association fibers emerge from minimizing connectivity on the geometry of the human fetal brain](https://www.slideshare.net/kazuyahoribe/220614margulieslabpdf)
-- 2022.06.12 Published our new paper [Severe damage recovery in evolving soft robots through differentiable programming](https://rdcu.be/cPvCp) in Genetic Programming and Evolvable Machines
-- 2022.06.07 I gave talk in [Abe Lab](https://masatoabe.com/) about Spatial localization of traveling neural activities induced by curved cortical surface geometry : A pre-pattern theory for brain wiring and folding  
-- 2022.05.15-18 [EMBL Symposium: Mechanobiology in development and disease](https://www.embl.org/about/info/course-and-conference-office/events/ees22-05/)
-- 2022.01.25 Upload a new paper on arXiv [Investigating the impact of free energy based behavior on human in human-agent interaction](https://arxiv.org/abs/2201.10164)
-- 2022.01.25-27 [AROB-ISBC-SWARM 2022](https://isarob.org/symposium/)
 
 
 ### [~2021]({{< ref "/news/past/index.md" >}})  
